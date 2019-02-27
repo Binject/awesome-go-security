@@ -1,6 +1,7 @@
 # awesome-go-security
 
 A dedicated place for cool golang security projects, frameworks, libraries, and software.
+
 Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-go) and [awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security)
 
 

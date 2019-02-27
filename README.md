@@ -7,7 +7,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 
 ## Encryption
 
-* [bencrypt](https://github.com/awgh/bencrypt) - Encryption Abstraction Layer and Utilities for ratnet .
+* [bencrypt](https://github.com/awgh/bencrypt) - Encryption Abstraction Layer and Utilities.
 * [holeysocks](https://github.com/audibleblink/HoleySocks) - Cross-Platform Reverse Socks Proxy in Go.
 * [gokrb5](https://github.com/jcmturner/gokrb5) - Pure Go Kerberos library for clients and services.
 * [go-tunnel](https://github.com/opencoff/go-tunnel) - TLS/SSL Tunnel - A modern STunnel replacement written in golang.
@@ -127,7 +127,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 
 
 ## Chat Bots
-
+* [marvin](https://github.com/awgh/marvin) - IRC bot with Markov spew, answering machine, and mixed drink recipes.
 * [alfred](https://github.com/demisto/alfred) - A Slack bot to add security info to messages containing URLs, hashes and IPs.
 * [go-chat-bot](https://github.com/go-chat-bot/bot) - IRC, Slack & Telegram bot written in Go.
 * [flottbot](https://github.com/target/flottbot) - A chatbot framework written in Go. All configurations are made in YAML.

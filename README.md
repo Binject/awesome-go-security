@@ -95,7 +95,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [gobuster](https://github.com/OJ/gobuster) - Directory/file & DNS busting tool written in Go.
 * [gofuz](https://github.com/braaaax/gofuzz) - Aims to reproduce wfuzz's functionality and versatility. Based on gobuster.
 * [url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites.
-
+* [madns](https://github.com/awgh/madns) - DNS server for pentesters.
 
 ## Network Scanners
 
@@ -180,6 +180,10 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall.
 * [passwd](https://github.com/willdonnelly/passwd) - A Go parser for the /etc/passwd file.
 
+## Container Specific
+
+* [kube-auto-analyzer](https://github.com/nccgroup/kube-auto-analyzer) - Kubernetes Auto Analyzer.
+* [amicontained](https://github.com/genuinetools/amicontained) - Container introspection tool.
 
 ## Data Parsing
 

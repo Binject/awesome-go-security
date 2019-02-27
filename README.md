@@ -56,11 +56,15 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 ## Command and Control
 
 * [chashell](https://github.com/sysdream/chashell) - Chashell is a Go reverse shell that communicates over DNS.
+* [chisel](https://github.com/jpillora/chisel) - Chisel is a fast TCP tunnel, transported over HTTP, secured via SSH.
 * [GoAT](https://github.com/petercunha/GoAT) - GoAT (Golang Advanced Trojan) is a trojan that uses Twitter as a C&C server
 * [gobot2](https://github.com/SaturnsVoid/GoBot2) - Second Version of The GoBot Botnet, But more advanced.
+* [goDoH](https://github.com/sensepost/goDoH) - A DNS-over-HTTPS Command & Control Proof of Concept.
 * [goredshell](https://github.com/ahhh/goredshell) -  A cross platform tool for verifying credentials and executing single commands
 * [hershell](https://github.com/lesnuages/hershell) - Multiplatform reverse shell generator.
 * [hideNsneak](https://github.com/rmikehodges/hideNsneak) - a CLI for ephemeral penetration testing
+* [keyserver](https://github.com/leoloobeek/keyserver) - Easily serve HTTP and DNS keys for proper payload protection.
+* [liberetto](https://github.com/apcera/libretto) - Libretto is a Golang library to create Virtual Machines (VMs) on any cloud and Virtual Machine hosting platforms such as AWS, Azure, OpenStack, vSphere, or VirtualBox.
 * [merlin](https://github.com/Ne0nd0g/merlin/) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.
 * [shellz](https://github.com/evilsocket/shellz) - shellz is a small utility to track and control your ssh, telnet, web and custom shells and tunnels.
 * [squidshell](https://github.com/tomsteele/shellsquid) - A dynamic HTTP and DNS reverse proxy
@@ -71,6 +75,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 ## Web Framework Hardening
 
 * [beego-security-headers](https://github.com/gosecguy/beego-security-headers) - Beego framework filter for easy security headers management.
+* [badactor](https://github.com/jaredfolkins/badactor) - An in-memory application driven jailer written in Go.
 * [goth](https://github.com/markbates/goth) - Provides a simple, clean, and idiomatic way to use OAuth and OAuth2. Handles multiple providers out of the box.
 * [hsts](https://github.com/StalkR/hsts) - Go HTTP Strict Transport Security library
 * [httpauth](https://github.com/goji/httpauth) - HTTP Authentication middleware.
@@ -103,6 +108,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 
 ## Network Analysis
 
+* [netcap](https://github.com/dreadl0ck/netcap) - The Netcap (NETwork CAPture) framework efficiently converts a stream of network packets into highly accessible type-safe structured data that represent specific protocols or custom abstractions.
 * [goshark](https://github.com/sunwxg/goshark) - Package goshark use tshark to decode IP packet and create data struct to analyse packet.
 * [gosnmp](https://github.com/soniah/gosnmp) - Native Go library for performing SNMP actions.
 * [gopassivedns](https://github.com/Phillipmartin/gopassivedns) - PassiveDNS in Go.
@@ -127,6 +133,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 
 
 ## Chat Bots
+
 * [marvin](https://github.com/awgh/marvin) - IRC bot with Markov spew, answering machine, and mixed drink recipes.
 * [alfred](https://github.com/demisto/alfred) - A Slack bot to add security info to messages containing URLs, hashes and IPs.
 * [go-chat-bot](https://github.com/go-chat-bot/bot) - IRC, Slack & Telegram bot written in Go.
@@ -150,9 +157,14 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 ## Windows Specific
 
 * [amsi](https://github.com/garethjensen/amsi) - Golang implementation of Microsoft Antimalware Scan Interface
-* [com](https://github.com/garethjensen/com) - Go wrapper for Microsoft COM's IUnknown interface. 
+* [go-acl](https://github.com/hectane/go-acl) - Go library for manipulating ACLs on Windows.
 * [go-execute-assembly](https://github.com/lesnuages/go-execute-assembly) - Allow a Go process to dynamically load .NET assemblies.
+* [go-ole](https://github.com/go-ole/go-ole) - Go bindings for Windows COM using shared libraries instead of cgo.
 * [gosecretsdump](https://github.com/C-Sto/gosecretsdump) - Fast hash dumper for NTDS.dit files
+* [go-winio](https://github.com/Microsoft/go-winio) - This repository contains utilities for efficiently performing Win32 IO operations in Go.
+* [ldap](https://github.com/go-ldap/ldap) - Basic LDAP v3 functionality for the GO programming language.
+* [winrm](https://github.com/masterzen/winrm) - Command-line tool and library for Windows remote command execution in Go.
+* [wmi](https://github.com/StackExchange/wmi) - Package wmi provides a WQL interface to Windows WMI.
 * [taskmaster](https://github.com/capnspacehook/taskmaster) - Windows Task Scheduler Library for Go.
 
 
@@ -164,7 +176,9 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 ## Linux Specific
 
 * [ftrace](https://github.com/evilsocket/ftrace) - Go library to trace Linux syscalls using the FTRACE kernel framework.
-* [opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall. 
+* [netstat](https://github.com/drael/GOnetstat) - Netstat implementation in Go.
+* [opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall.
+* [passwd](https://github.com/willdonnelly/passwd) - A Go parser for the /etc/passwd file.
 
 
 ## Data Parsing
@@ -174,6 +188,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 
 ## Static Code Analysis
 
+* [go-callvis](https://github.com/TrueFurby/go-callvis) - go-callvis is a development tool to help visualize call graph of a Go program using interactive view.
 * [go-diff](https://github.com/sergi/go-diff) - Diff, match and patch text in Go
 * [gosec](https://github.com/securego/gosec) - Inspects source code for security problems by scanning the Go AST.
 * [gometalinter](https://github.com/alecthomas/gometalinter) - Concurrently run Go lint tools and normalise their output.

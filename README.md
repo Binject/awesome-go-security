@@ -99,6 +99,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 
 ## Network Scanners
 
+* [amass](https://github.com/OWASP/Amass) - In-depth DNS Enumeration and Network Mapping
 * [bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
 * [goddi](https://github.com/NetSPI/goddi) - goddi (go dump domain info) dumps Active Directory domain information
 * [nextnet](https://github.com/hdm/nextnet) - nextnet is a pivot point discovery tool written in Go.

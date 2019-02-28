@@ -21,6 +21,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 
 ## Packers / Obfuscators
 
+* [Amber](https://github.com/EgeBalci/Amber) - Amber is a reflective PE packer for bypassing security products and mitigations.
 * [gscript](https://github.com/gen0cide/gscript) - Framework to rapidly implement custom droppers for all three major operating systems
 * [gobfuscate](https://github.com/unixpickle/gobfuscate) - Obfuscate Go binaries and packages
 * [goupx](https://github.com/pwaller/goupx) - Fix golang compiled binaries on x86_64 so that they can be packed with UPX.

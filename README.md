@@ -16,6 +16,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [passlib](https://github.com/hlandau/passlib) - Futureproof password hashing library.
 * [saltpack](https://github.com/keybase/saltpack) - Modern crypto messaging format.
 * [simple-scrypt](https://github.com/elithrar/simple-scrypt) - Scrypt package with a simple, obvious API and automatic cost calibration built-in.
+* [sio](https://github.com/minio/sio) - Go implementation of the Data At Rest Encryption ([DARE](https://blog.minio.io/data-at-rest-encryption-done-right-7446c644ddb6)) format.
 
 
 ## Packers / Obfuscators

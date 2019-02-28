@@ -26,6 +26,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [goupx](https://github.com/pwaller/goupx) - Fix golang compiled binaries on x86_64 so that they can be packed with UPX.
 * [stegify](https://github.com/DimitarPetrov/stegify) - Go tool for LSB steganography, capable of hiding any file within an image.
 * [obfs4](https://github.com/Yawning/obfs4) - Yawning Angel courtesy mirror of the obfourscator
+* [strobfus](https://github.com/znly/strobfus) - String obfuscation
 
 
 ## Private Key Infrastructure

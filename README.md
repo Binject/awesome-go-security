@@ -5,6 +5,11 @@ A dedicated place for cool golang security projects, frameworks, libraries, and 
 Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-go) and [awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security)
 
 
+## Auth
+
+* [saml2aws](https://github.com/Versent/saml2aws) - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
+
+
 ## Encryption
 
 * [bencrypt](https://github.com/awgh/bencrypt) - Encryption Abstraction Layer and Utilities.

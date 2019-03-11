@@ -55,6 +55,11 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [onionbox](https://github.com/ciehanski/onionbox) - Send and recieve files through TOR
 
 
+## Recon
+
+* [goca](https://github.com/gocaio/goca) - Goca Scanner https://goca.io
+
+
 ## Phishing
 
 * [evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication.
@@ -78,6 +83,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [squidshell](https://github.com/tomsteele/shellsquid) - A dynamic HTTP and DNS reverse proxy
 * [ratnet](https://github.com/awgh/ratnet) - Ratnet is a prototype anonymity network for mesh routing and embedded scenarios.
 * [Venom](https://github.com/Dliv3/Venom) - A Multi-hop Proxy for Penetration Testers Written in Go
+* [holepunch-client](https://github.com/function61/holepunch-client) - Totally self-contained SSH reverse tunnel written in Go
 
 
 ## Web Framework Hardening
@@ -104,6 +110,8 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [gofuzz](https://github.com/braaaax/gofuzz) - Aims to reproduce wfuzz's functionality and versatility. Based on gobuster.
 * [url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites.
 * [madns](https://github.com/awgh/madns) - DNS server for pentesters.
+* [rescope](https://github.com/root4loot/rescope) - Parse scope definitions to Burp Suite / ZAP compatible formats for import
+
 
 ## Network Scanners
 
@@ -161,6 +169,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [goreddeath](https://github.com/ahhh/GoRedDeath) - Experimenting with destructive file attacks in Go.
 * [goredloot](https://github.com/ahhh/GoRedLoot) - A tool to collect secrets (keys and passwords) and stage (compress and encrypt) them for exfiltration.
 * [goredspy](https://github.com/ahhh/GoRedSpy) - Post exploitation desktop screensho / user monitoring tool
+* [PandorasBox](https://github.com/Adversis/PandorasBox) - Security tool to quickly audit Public Box files and folders.
 
 
 ## Windows Specific

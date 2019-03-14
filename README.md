@@ -184,6 +184,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [winrm](https://github.com/masterzen/winrm) - Command-line tool and library for Windows remote command execution in Go.
 * [wmi](https://github.com/StackExchange/wmi) - Package wmi provides a WQL interface to Windows WMI.
 * [taskmaster](https://github.com/capnspacehook/taskmaster) - Windows Task Scheduler Library for Go.
+* [gordp](https://github.com/Madnikulin50/gordp) - Rdp client on pure GoLang
 
 
 ## MacOS Specific

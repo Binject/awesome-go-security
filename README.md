@@ -147,6 +147,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [honeytrap](https://github.com/honeytrap/honeytrap) - Advanced Honeypot framework. 
 * [malace](https://github.com/maliceio/malice) - VirusTotal Wanna Be - Now with 100% more Hipster
 * [sgt](https://github.com/OktaSecurityLabs/sgt) - Osquery Mangement Server
+* [osquery-go](https://github.com/kolide/osquery-go) - Go bindings for osquery
 
 
 ## Chat Bots

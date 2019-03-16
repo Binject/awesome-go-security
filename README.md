@@ -84,6 +84,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [ratnet](https://github.com/awgh/ratnet) - Ratnet is a prototype anonymity network for mesh routing and embedded scenarios.
 * [Venom](https://github.com/Dliv3/Venom) - A Multi-hop Proxy for Penetration Testers Written in Go
 * [holepunch-client](https://github.com/function61/holepunch-client) - Totally self-contained SSH reverse tunnel written in Go
+* [Platypus](https://github.com/WangYihang/Platypus) - A modern multiple reverse shell sessions manager written in go
 
 
 ## Web Framework Hardening

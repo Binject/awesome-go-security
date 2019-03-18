@@ -118,6 +118,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 
 * [amass](https://github.com/OWASP/Amass) - In-depth DNS Enumeration and Network Mapping
 * [bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
+* [furious](https://github.com/liamg/furious) - Golang IP/port scanner with SYN (stealth) scanning and device manufacturer identification 
 * [goddi](https://github.com/NetSPI/goddi) - goddi (go dump domain info) dumps Active Directory domain information
 * [nextnet](https://github.com/hdm/nextnet) - nextnet is a pivot point discovery tool written in Go.
 * [vulns](https://github.com/future-architect/vuls) - Vulnerability scanner for Linux/FreeBSD, agentless, written in Go

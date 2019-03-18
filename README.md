@@ -192,6 +192,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 ## MacOS Specific
 
 * [damage](https://github.com/itchio/damage) - A toolkit for creating and manipulating DMGs
+* [racoon](https://github.com/groob/racoon) - loop through a munki manifest and install everything
 
 
 ## Linux Specific

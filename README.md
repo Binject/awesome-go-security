@@ -22,6 +22,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [saltpack](https://github.com/keybase/saltpack) - Modern crypto messaging format.
 * [simple-scrypt](https://github.com/elithrar/simple-scrypt) - Scrypt package with a simple, obvious API and automatic cost calibration built-in.
 * [sio](https://github.com/minio/sio) - Go implementation of the Data At Rest Encryption ([DARE](https://blog.minio.io/data-at-rest-encryption-done-right-7446c644ddb6)) format.
+* [hashid](https://github.com/JamesHovious/hashid) - Given a string determine the possible hashing algorithms used to produce that string.
 
 
 ## Packers / Obfuscators
@@ -188,6 +189,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [wmi](https://github.com/StackExchange/wmi) - Package wmi provides a WQL interface to Windows WMI.
 * [taskmaster](https://github.com/capnspacehook/taskmaster) - Windows Task Scheduler Library for Go.
 * [gordp](https://github.com/Madnikulin50/gordp) - Rdp client on pure GoLang
+* [w32](https://github.com/JamesHovious/w32) - A wrapper of Windows APIs for Go
 
 
 ## MacOS Specific

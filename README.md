@@ -86,6 +86,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [Venom](https://github.com/Dliv3/Venom) - A Multi-hop Proxy for Penetration Testers Written in Go
 * [holepunch-client](https://github.com/function61/holepunch-client) - Totally self-contained SSH reverse tunnel written in Go
 * [Platypus](https://github.com/WangYihang/Platypus) - A modern multiple reverse shell sessions manager written in go
+* [GoMet](https://github.com/mimah/GoMet) - Multi-platform backdoor in Go. TCP forwarding, socks5, tunneling, shell, download, exec
 
 
 ## Web Framework Hardening

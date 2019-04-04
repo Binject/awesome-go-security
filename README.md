@@ -66,6 +66,8 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication.
 * [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 * [modlishka](https://github.com/drk1wi/Modlishka) - Modlishka. Reverse Proxy. Phishing NG.
+* [phishery](https://github.com/ryhanson/phishery) - An SSL Enabled Basic Auth Credential Harvester with a Word Document Template URL Injector
+
 
 ## Command and Control
 

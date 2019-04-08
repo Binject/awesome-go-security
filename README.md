@@ -127,6 +127,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [nextnet](https://github.com/hdm/nextnet) - nextnet is a pivot point discovery tool written in Go.
 * [vulns](https://github.com/future-architect/vuls) - Vulnerability scanner for Linux/FreeBSD, agentless, written in Go
 * [xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
+* [subjack](https://github.com/haccer/subjack) - Subdomain Takeover tool written in Go
 
 
 ## Network Analysis

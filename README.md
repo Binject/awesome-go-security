@@ -54,6 +54,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [dnd](https://github.com/0xcaff/dnd) - A web based drag and drop file transfer tool for sending files across the internet.
 * [grab](https://github.com/cavaliercoder/grab) - Go package for managing file downloads.
 * [onionbox](https://github.com/ciehanski/onionbox) - Send and recieve files through TOR
+* [proxyd](https://github.com/hkparker/proxyd) - proxyd proxies data between TCP, TLS, and unix sockets
 
 
 ## Recon

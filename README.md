@@ -114,6 +114,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 
 * [gobuster](https://github.com/OJ/gobuster) - Directory/file & DNS busting tool written in Go.
 * [gofuzz](https://github.com/braaaax/gofuzz) - Aims to reproduce wfuzz's functionality and versatility. Based on gobuster.
+* [recursebuster](https://github.com/C-Sto/recursebuster) - Rapid content discovery tool for recursively querying webservers, handy in pentesting and web application assessments
 * [url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites.
 * [madns](https://github.com/awgh/madns) - DNS server for pentesters.
 * [rescope](https://github.com/root4loot/rescope) - Parse scope definitions to Burp Suite / ZAP compatible formats for import

@@ -130,6 +130,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [vulns](https://github.com/future-architect/vuls) - Vulnerability scanner for Linux/FreeBSD, agentless, written in Go
 * [xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
 * [subjack](https://github.com/haccer/subjack) - Subdomain Takeover tool written in Go
+* [flightsim](https://github.com/alphasoc/flightsim) - A utility to generate malicious network traffic and evaluate controls
 
 
 ## Network Analysis

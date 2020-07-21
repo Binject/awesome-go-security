@@ -166,7 +166,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [alfred](https://github.com/demisto/alfred) - A Slack bot to add security info to messages containing URLs, hashes and IPs.
 * [go-chat-bot](https://github.com/go-chat-bot/bot) - IRC, Slack & Telegram bot written in Go.
 * [flottbot](https://github.com/target/flottbot) - A chatbot framework written in Go. All configurations are made in YAML.
-
+* [gohubsbot](https://gitlab.com/rek2/gohubsbot) - A minimal bridge bot between Mozilla Hubs and the Matrix chat protocol
 
 ## System Information
 

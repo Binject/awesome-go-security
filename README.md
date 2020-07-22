@@ -23,7 +23,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [simple-scrypt](https://github.com/elithrar/simple-scrypt) - Scrypt package with a simple, obvious API and automatic cost calibration built-in.
 * [sio](https://github.com/minio/sio) - Go implementation of the Data At Rest Encryption ([DARE](https://blog.minio.io/data-at-rest-encryption-done-right-7446c644ddb6)) format.
 * [hashid](https://github.com/JamesHovious/hashid) - Given a string determine the possible hashing algorithms used to produce that string.
-
+* [crunchy](https://github.com/muesli/crunchy) - Finds common flaws in passwords. Like cracklib
 
 ## Packers / Obfuscators
 

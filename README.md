@@ -118,7 +118,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites.
 * [madns](https://github.com/awgh/madns) - DNS server for pentesters.
 * [rescope](https://github.com/root4loot/rescope) - Parse scope definitions to Burp Suite / ZAP compatible formats for import
-
+* [Wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection.
 
 ## Network Scanners
 

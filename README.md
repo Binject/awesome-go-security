@@ -131,7 +131,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
 * [subjack](https://github.com/haccer/subjack) - Subdomain Takeover tool written in Go
 * [flightsim](https://github.com/alphasoc/flightsim) - A utility to generate malicious network traffic and evaluate controls
-
+* [Cameradar](https://github.com/Ullaakut/cameradar) - An scanner with RTSP stream access tool that comes with its library
 
 ## Network Analysis
 

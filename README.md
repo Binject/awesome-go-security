@@ -197,7 +197,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [taskmaster](https://github.com/capnspacehook/taskmaster) - Windows Task Scheduler Library for Go.
 * [gordp](https://github.com/Madnikulin50/gordp) - Rdp client on pure GoLang
 * [w32](https://github.com/JamesHovious/w32) - A wrapper of Windows APIs for Go
-
+* [goWMIExec](https://github.com/C-Sto/goWMIExec) - Pash the Hash,  execute a command on a target machine using WMI by providing an NTLM hash for the specified user.
 
 ## MacOS Specific
 

@@ -152,6 +152,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 
 ## Detection Engines
 
+* [aegis](https://github.com/rafael-santiago/aegis) - A multiplatform debugger detection library.
 * [fleet](https://github.com/kolide/fleet) - A flexible control server for osquery [fleets](https://kolide.com/fleet)
 * [go-yara](https://github.com/hillu/go-yara) - Go Bindings for [YARA](https://github.com/plusvic/yara), the "pattern matching swiss knife for malware researchers (and everyone else)".
 * [honeytrap](https://github.com/honeytrap/honeytrap) - Advanced Honeypot framework. 

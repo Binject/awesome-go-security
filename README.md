@@ -90,6 +90,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [holepunch-client](https://github.com/function61/holepunch-client) - Totally self-contained SSH reverse tunnel written in Go
 * [Platypus](https://github.com/WangYihang/Platypus) - A modern multiple reverse shell sessions manager written in go
 * [GoMet](https://github.com/mimah/GoMet) - Multi-platform backdoor in Go. TCP forwarding, socks5, tunneling, shell, download, exec
+* [Geacon](https://github.com/darkr4y/geacon) - A Go implementation of CobaltStrike's Beacon
 
 
 ## Web Framework Hardening

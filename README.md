@@ -113,6 +113,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 ## Web Application Testing
 
 * [gobuster](https://github.com/OJ/gobuster) - Directory/file & DNS busting tool written in Go.
+* [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go & working with recursion functionality.
 * [gofuzz](https://github.com/braaaax/gofuzz) - Aims to reproduce wfuzz's functionality and versatility. Based on gobuster.
 * [recursebuster](https://github.com/C-Sto/recursebuster) - Rapid content discovery tool for recursively querying webservers, handy in pentesting and web application assessments
 * [url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites.

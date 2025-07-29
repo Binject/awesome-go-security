@@ -23,23 +23,24 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [simple-scrypt](https://github.com/elithrar/simple-scrypt) - Scrypt package with a simple, obvious API and automatic cost calibration built-in.
 * [sio](https://github.com/minio/sio) - Go implementation of the Data At Rest Encryption ([DARE](https://blog.minio.io/data-at-rest-encryption-done-right-7446c644ddb6)) format.
 * [hashid](https://github.com/JamesHovious/hashid) - Given a string determine the possible hashing algorithms used to produce that string.
-* [crunchy](https://github.com/muesli/crunchy) - Finds common flaws in passwords. Like cracklib
+* [crunchy](https://github.com/muesli/crunchy) - Finds common flaws in passwords. Like cracklib.
+* [go-peer](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
 
 ## Packers / Obfuscators
 
 * [Amber](https://github.com/EgeBalci/Amber) - Amber is a reflective PE packer for bypassing security products and mitigations.
-* [gscript](https://github.com/gen0cide/gscript) - Framework to rapidly implement custom droppers for all three major operating systems
-* [gobfuscate](https://github.com/unixpickle/gobfuscate) - Obfuscate Go binaries and packages
+* [gscript](https://github.com/gen0cide/gscript) - Framework to rapidly implement custom droppers for all three major operating systems.
+* [gobfuscate](https://github.com/unixpickle/gobfuscate) - Obfuscate Go binaries and packages.
 * [goupx](https://github.com/pwaller/goupx) - Fix golang compiled binaries on x86_64 so that they can be packed with UPX.
 * [stegify](https://github.com/DimitarPetrov/stegify) - Go tool for LSB steganography, capable of hiding any file within an image.
-* [obfs4](https://github.com/Yawning/obfs4) - Yawning Angel courtesy mirror of the obfourscator
-* [strobfus](https://github.com/znly/strobfus) - String obfuscation
+* [obfs4](https://github.com/Yawning/obfs4) - Yawning Angel courtesy mirror of the obfourscator.
+* [strobfus](https://github.com/znly/strobfus) - String obfuscation.
 
 
 ## Private Key Infrastructure
 
 * [acmetool](https://github.com/hlandau/acme) - ACME (Let's Encrypt) client tool with automatic renewal.
-* [certigo](https://github.com/square/certigo) - A utility to examine and validate certificates in a variety of formats
+* [certigo](https://github.com/square/certigo) - A utility to examine and validate certificates in a variety of formats.
 * [CloudFlare SSL](https://github.com/cloudflare/cfssl) - CFSSL is CloudFlare's PKI/TLS swiss army knife. It is both a command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.
 
 
@@ -53,43 +54,43 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 
 * [dnd](https://github.com/0xcaff/dnd) - A web based drag and drop file transfer tool for sending files across the internet.
 * [grab](https://github.com/cavaliercoder/grab) - Go package for managing file downloads.
-* [onionbox](https://github.com/ciehanski/onionbox) - Send and recieve files through TOR
-* [proxyd](https://github.com/hkparker/proxyd) - proxyd proxies data between TCP, TLS, and unix sockets
+* [onionbox](https://github.com/ciehanski/onionbox) - Send and recieve files through TOR.
+* [proxyd](https://github.com/hkparker/proxyd) - proxyd proxies data between TCP, TLS, and unix sockets.
 
 
 ## Recon
 
-* [goca](https://github.com/gocaio/goca) - Goca Scanner https://goca.io
+* [goca](https://github.com/gocaio/goca) - Goca Scanner https://goca.io.
 
 
 ## Phishing
 
 * [evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication.
-* [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
+* [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit.
 * [modlishka](https://github.com/drk1wi/Modlishka) - Modlishka. Reverse Proxy. Phishing NG.
-* [phishery](https://github.com/ryhanson/phishery) - An SSL Enabled Basic Auth Credential Harvester with a Word Document Template URL Injector
+* [phishery](https://github.com/ryhanson/phishery) - An SSL Enabled Basic Auth Credential Harvester with a Word Document Template URL Injector.
 
 
 ## Command and Control
 
 * [chashell](https://github.com/sysdream/chashell) - Chashell is a Go reverse shell that communicates over DNS.
 * [chisel](https://github.com/jpillora/chisel) - Chisel is a fast TCP tunnel, transported over HTTP, secured via SSH.
-* [GoAT](https://github.com/petercunha/GoAT) - GoAT (Golang Advanced Trojan) is a trojan that uses Twitter as a C&C server
+* [GoAT](https://github.com/petercunha/GoAT) - GoAT (Golang Advanced Trojan) is a trojan that uses Twitter as a C&C server.
 * [gobot2](https://github.com/SaturnsVoid/GoBot2) - Second Version of The GoBot Botnet, But more advanced.
 * [goDoH](https://github.com/sensepost/goDoH) - A DNS-over-HTTPS Command & Control Proof of Concept.
-* [goredshell](https://github.com/ahhh/goredshell) -  A cross platform tool for verifying credentials and executing single commands
+* [goredshell](https://github.com/ahhh/goredshell) -  A cross platform tool for verifying credentials and executing single commands.
 * [hershell](https://github.com/lesnuages/hershell) - Multiplatform reverse shell generator.
-* [hideNsneak](https://github.com/rmikehodges/hideNsneak) - a CLI for ephemeral penetration testing
+* [hideNsneak](https://github.com/rmikehodges/hideNsneak) - a CLI for ephemeral penetration testing.
 * [keyserver](https://github.com/leoloobeek/keyserver) - Easily serve HTTP and DNS keys for proper payload protection.
 * [liberetto](https://github.com/apcera/libretto) - Libretto is a Golang library to create Virtual Machines (VMs) on any cloud and Virtual Machine hosting platforms such as AWS, Azure, OpenStack, vSphere, or VirtualBox.
 * [merlin](https://github.com/Ne0nd0g/merlin/) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.
 * [shellz](https://github.com/evilsocket/shellz) - shellz is a small utility to track and control your ssh, telnet, web and custom shells and tunnels.
-* [squidshell](https://github.com/tomsteele/shellsquid) - A dynamic HTTP and DNS reverse proxy
+* [squidshell](https://github.com/tomsteele/shellsquid) - A dynamic HTTP and DNS reverse proxy.
 * [ratnet](https://github.com/awgh/ratnet) - Ratnet is a prototype anonymity network for mesh routing and embedded scenarios.
-* [Venom](https://github.com/Dliv3/Venom) - A Multi-hop Proxy for Penetration Testers Written in Go
-* [holepunch-client](https://github.com/function61/holepunch-client) - Totally self-contained SSH reverse tunnel written in Go
-* [Platypus](https://github.com/WangYihang/Platypus) - A modern multiple reverse shell sessions manager written in go
-* [GoMet](https://github.com/mimah/GoMet) - Multi-platform backdoor in Go. TCP forwarding, socks5, tunneling, shell, download, exec
+* [Venom](https://github.com/Dliv3/Venom) - A Multi-hop Proxy for Penetration Testers Written in Go.
+* [holepunch-client](https://github.com/function61/holepunch-client) - Totally self-contained SSH reverse tunnel written in Go.
+* [Platypus](https://github.com/WangYihang/Platypus) - A modern multiple reverse shell sessions manager written in go.
+* [GoMet](https://github.com/mimah/GoMet) - Multi-platform backdoor in Go. TCP forwarding, socks5, tunneling, shell, download, exec.
 
 
 ## Web Framework Hardening
@@ -97,14 +98,14 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [beego-security-headers](https://github.com/gosecguy/beego-security-headers) - Beego framework filter for easy security headers management.
 * [badactor](https://github.com/jaredfolkins/badactor) - An in-memory application driven jailer written in Go.
 * [goth](https://github.com/markbates/goth) - Provides a simple, clean, and idiomatic way to use OAuth and OAuth2. Handles multiple providers out of the box.
-* [hsts](https://github.com/StalkR/hsts) - Go HTTP Strict Transport Security library
+* [hsts](https://github.com/StalkR/hsts) - Go HTTP Strict Transport Security library.
 * [httpauth](https://github.com/goji/httpauth) - HTTP Authentication middleware.
 * [jwt](https://github.com/robbert229/jwt) - Clean and easy to use implementation of JSON Web Tokens (JWT).
 * [jwt](https://github.com/pascaldekloe/jwt) - Lightweight JSON Web Token (JWT) library.
 * [nosurf](https://github.com/justinas/nosurf) - CSRF protection middleware for Go.
 * [oauth2](https://github.com/golang/oauth2) - Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine and App Engine support.
 * [osin](https://github.com/openshift/osin) - Golang OAuth2 server library.
-* [paseto](https://github.com/o1egl/paseto) - Platform-Agnostic Security Tokens implementation in GO (Golang)
+* [paseto](https://github.com/o1egl/paseto) - Platform-Agnostic Security Tokens implementation in GO (Golang).
 * [gorilla/csrf](https://github.com/gorilla/csrf) - Provides Cross-Site Request Forgery (CSRF) prevention middleware for Go web applications & services.
 * [gorilla/securecookie](https://github.com/gorilla/securecookie) - Encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.
 * [secure](https://github.com/unrolled/secure) -  Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.
@@ -117,24 +118,24 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [gobuster](https://github.com/OJ/gobuster) - Directory/file & DNS busting tool written in Go.
 * [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go & working with recursion functionality.
 * [gofuzz](https://github.com/braaaax/gofuzz) - Aims to reproduce wfuzz's functionality and versatility. Based on gobuster.
-* [recursebuster](https://github.com/C-Sto/recursebuster) - Rapid content discovery tool for recursively querying webservers, handy in pentesting and web application assessments
+* [recursebuster](https://github.com/C-Sto/recursebuster) - Rapid content discovery tool for recursively querying webservers, handy in pentesting and web application assessments.
 * [url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites.
 * [madns](https://github.com/awgh/madns) - DNS server for pentesters.
-* [rescope](https://github.com/root4loot/rescope) - Parse scope definitions to Burp Suite / ZAP compatible formats for import
+* [rescope](https://github.com/root4loot/rescope) - Parse scope definitions to Burp Suite / ZAP compatible formats for import.
 * [Wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection.
 
 ## Network Scanners
 
-* [amass](https://github.com/OWASP/Amass) - In-depth DNS Enumeration and Network Mapping
+* [amass](https://github.com/OWASP/Amass) - In-depth DNS Enumeration and Network Mapping.
 * [bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
-* [furious](https://github.com/liamg/furious) - Golang IP/port scanner with SYN (stealth) scanning and device manufacturer identification 
-* [goddi](https://github.com/NetSPI/goddi) - goddi (go dump domain info) dumps Active Directory domain information
+* [furious](https://github.com/liamg/furious) - Golang IP/port scanner with SYN (stealth) scanning and device manufacturer identification.
+* [goddi](https://github.com/NetSPI/goddi) - goddi (go dump domain info) dumps Active Directory domain information.
 * [nextnet](https://github.com/hdm/nextnet) - nextnet is a pivot point discovery tool written in Go.
-* [vulns](https://github.com/future-architect/vuls) - Vulnerability scanner for Linux/FreeBSD, agentless, written in Go
+* [vulns](https://github.com/future-architect/vuls) - Vulnerability scanner for Linux/FreeBSD, agentless, written in Go.
 * [xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
-* [subjack](https://github.com/haccer/subjack) - Subdomain Takeover tool written in Go
-* [flightsim](https://github.com/alphasoc/flightsim) - A utility to generate malicious network traffic and evaluate controls
-* [Cameradar](https://github.com/Ullaakut/cameradar) - An scanner with RTSP stream access tool that comes with its library
+* [subjack](https://github.com/haccer/subjack) - Subdomain Takeover tool written in Go.
+* [flightsim](https://github.com/alphasoc/flightsim) - A utility to generate malicious network traffic and evaluate controls.
+* [Cameradar](https://github.com/Ullaakut/cameradar) - An scanner with RTSP stream access tool that comes with its library.
 
 ## Network Analysis
 
@@ -142,26 +143,27 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [goshark](https://github.com/sunwxg/goshark) - Package goshark use tshark to decode IP packet and create data struct to analyse packet.
 * [gosnmp](https://github.com/soniah/gosnmp) - Native Go library for performing SNMP actions.
 * [gopassivedns](https://github.com/Phillipmartin/gopassivedns) - PassiveDNS in Go.
-* [nfp](https://github.com/awgh/nfp) - Network Finger Printer
+* [nfp](https://github.com/awgh/nfp) - Network Finger Printer.
 
 
 ## Exploit Development
 
 * [binjection](https://github.com/Binject/binjection) - Injects additional machine instructions into various binary formats.
 * [pwn](https://github.com/UlisseMini/pwn) - Pwntools for go!
-* [monkey](https://github.com/bouk/monkey) - Monkey patching in Go
-* [usercorn](https://github.com/lunixbochs/usercorn) - Dynamic binary analysis via platform emulation
+* [monkey](https://github.com/bouk/monkey) - Monkey patching in Go.
+* [usercorn](https://github.com/lunixbochs/usercorn) - Dynamic binary analysis via platform emulation.
 
 
 ## Detection Engines
+
 
 * [aegis](https://github.com/rafael-santiago/aegis) - A multiplatform debugger detection library.
 * [fleet](https://github.com/kolide/fleet) - A flexible control server for osquery [fleets](https://kolide.com/fleet)
 * [go-yara](https://github.com/hillu/go-yara) - Go Bindings for [YARA](https://github.com/plusvic/yara), the "pattern matching swiss knife for malware researchers (and everyone else)".
 * [honeytrap](https://github.com/honeytrap/honeytrap) - Advanced Honeypot framework. 
-* [malace](https://github.com/maliceio/malice) - VirusTotal Wanna Be - Now with 100% more Hipster
-* [sgt](https://github.com/OktaSecurityLabs/sgt) - Osquery Mangement Server
-* [osquery-go](https://github.com/kolide/osquery-go) - Go bindings for osquery
+* [malace](https://github.com/maliceio/malice) - VirusTotal Wanna Be - Now with 100% more Hipster.
+* [sgt](https://github.com/OktaSecurityLabs/sgt) - Osquery Mangement Server.
+* [osquery-go](https://github.com/kolide/osquery-go) - Go bindings for osquery.
 
 
 ## Chat Bots
@@ -170,45 +172,45 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [alfred](https://github.com/demisto/alfred) - A Slack bot to add security info to messages containing URLs, hashes and IPs.
 * [go-chat-bot](https://github.com/go-chat-bot/bot) - IRC, Slack & Telegram bot written in Go.
 * [flottbot](https://github.com/target/flottbot) - A chatbot framework written in Go. All configurations are made in YAML.
-* [gohubsbot](https://gitlab.com/rek2/gohubsbot) - A minimal bridge bot between Mozilla Hubs and the Matrix chat protocol
+* [gohubsbot](https://gitlab.com/rek2/gohubsbot) - A minimal bridge bot between Mozilla Hubs and the Matrix chat protocol.
 
 ## System Information
 
-* [goinfo](https://github.com/matishsiao/goInfo) - get os information use golang
-* [gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
+* [goinfo](https://github.com/matishsiao/goInfo) - get os information use golang.
+* [gopsutil](https://github.com/shirou/gopsutil) - psutil for golang.
 
 
 ## General Post Exploitation
 
-* [dlgs](https://github.com/gen2brain/dlgs) - Go cross-platform library for displaying dialogs and input boxes
+* [dlgs](https://github.com/gen2brain/dlgs) - Go cross-platform library for displaying dialogs and input boxes.
 * [goreddeath](https://github.com/ahhh/GoRedDeath) - Experimenting with destructive file attacks in Go.
 * [goredloot](https://github.com/ahhh/GoRedLoot) - A tool to collect secrets (keys and passwords) and stage (compress and encrypt) them for exfiltration.
-* [goredspy](https://github.com/ahhh/GoRedSpy) - Post exploitation desktop screensho / user monitoring tool
+* [goredspy](https://github.com/ahhh/GoRedSpy) - Post exploitation desktop screensho / user monitoring tool.
 * [PandorasBox](https://github.com/Adversis/PandorasBox) - Security tool to quickly audit Public Box files and folders.
 
 
 ## Windows Specific
 
-* [amsi](https://github.com/garethjensen/amsi) - Golang implementation of Microsoft Antimalware Scan Interface
+* [amsi](https://github.com/garethjensen/amsi) - Golang implementation of Microsoft Antimalware Scan Interface.
 * [go-acl](https://github.com/hectane/go-acl) - Go library for manipulating ACLs on Windows.
 * [go-execute-assembly](https://github.com/lesnuages/go-execute-assembly) - Allow a Go process to dynamically load .NET assemblies.
 * [go-ole](https://github.com/go-ole/go-ole) - Go bindings for Windows COM using shared libraries instead of cgo.
-* [gosecretsdump](https://github.com/C-Sto/gosecretsdump) - Fast hash dumper for NTDS.dit files
+* [gosecretsdump](https://github.com/C-Sto/gosecretsdump) - Fast hash dumper for NTDS.dit files.
 * [go-winio](https://github.com/Microsoft/go-winio) - This repository contains utilities for efficiently performing Win32 IO operations in Go.
 * [ldap](https://github.com/go-ldap/ldap) - Basic LDAP v3 functionality for the GO programming language.
 * [winrm](https://github.com/masterzen/winrm) - Command-line tool and library for Windows remote command execution in Go.
 * [wmi](https://github.com/StackExchange/wmi) - Package wmi provides a WQL interface to Windows WMI.
 * [taskmaster](https://github.com/capnspacehook/taskmaster) - Windows Task Scheduler Library for Go.
-* [gordp](https://github.com/Madnikulin50/gordp) - Rdp client on pure GoLang
-* [w32](https://github.com/JamesHovious/w32) - A wrapper of Windows APIs for Go
+* [gordp](https://github.com/Madnikulin50/gordp) - Rdp client on pure GoLang.
+* [w32](https://github.com/JamesHovious/w32) - A wrapper of Windows APIs for Go.
 * [goWMIExec](https://github.com/C-Sto/goWMIExec) - Pash the Hash,  execute a command on a target machine using WMI by providing an NTLM hash for the specified user.
 * [fibratus.io](https://www.fibratus.io) - A tool for the Windows kernel exploration and observability
 
 
 ## MacOS Specific
 
-* [damage](https://github.com/itchio/damage) - A toolkit for creating and manipulating DMGs
-* [racoon](https://github.com/groob/racoon) - loop through a munki manifest and install everything
+* [damage](https://github.com/itchio/damage) - A toolkit for creating and manipulating DMGs.
+* [racoon](https://github.com/groob/racoon) - loop through a munki manifest and install everything.
 
 
 ## Linux Specific
@@ -225,20 +227,20 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 
 ## Data Parsing
 
-* [cacador](https://github.com/sroberts/cacador) -  Indicator extractor of IOCs
+* [cacador](https://github.com/sroberts/cacador) -  Indicator extractor of IOCs.
 
 
 ## Static Code Analysis
 
 * [go-callvis](https://github.com/TrueFurby/go-callvis) - go-callvis is a development tool to help visualize call graph of a Go program using interactive view.
-* [go-diff](https://github.com/sergi/go-diff) - Diff, match and patch text in Go
+* [go-diff](https://github.com/sergi/go-diff) - Diff, match and patch text in Go.
 * [gosec](https://github.com/securego/gosec) - Inspects source code for security problems by scanning the Go AST.
 * [gometalinter](https://github.com/alecthomas/gometalinter) - Concurrently run Go lint tools and normalise their output.
 
 
 ## Assembly
 
-* [avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go
-* [c2goasm](https://github.com/minio/c2goasm) - C to Go Assembly
-* [shellcode](https://github.com/Binject/shellcode) - Shellcode library as a Go package
+* [avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go.
+* [c2goasm](https://github.com/minio/c2goasm) - C to Go Assembly.
+* [shellcode](https://github.com/Binject/shellcode) - Shellcode library as a Go package.
 

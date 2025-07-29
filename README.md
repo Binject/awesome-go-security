@@ -235,7 +235,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [go-callvis](https://github.com/TrueFurby/go-callvis) - go-callvis is a development tool to help visualize call graph of a Go program using interactive view.
 * [go-diff](https://github.com/sergi/go-diff) - Diff, match and patch text in Go.
 * [gosec](https://github.com/securego/gosec) - Inspects source code for security problems by scanning the Go AST.
-* [gometalinter](https://github.com/alecthomas/gometalinter) - Concurrently run Go lint tools and normalise their output.
+* [golangci-lint](https://github.com/golangci/golangci-lint) - Concurrently run Go lint tools and normalise their output.
 
 
 ## Assembly

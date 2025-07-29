@@ -8,7 +8,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 ## Auth
 
 * [saml2aws](https://github.com/Versent/saml2aws) - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
-
+* [A Guide on implementing Role-Based Access Control (RBAC) Authorization in Go](https://www.permit.io/blog/role-based-access-control-rbac-authorization-in-golang)
 
 ## Encryption
 
@@ -110,10 +110,13 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [gorilla/securecookie](https://github.com/gorilla/securecookie) - Encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.
 * [secure](https://github.com/unrolled/secure) -  Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.
 
+## OSINT
+* [removed commits finder](https://github.com/math-x-io/Removed-commits-finder) - OSINT tool to find deleted commits from a GitHub repository.
+* [mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool written in Go.
 
 ## Web Application Testing
-
 * [gobuster](https://github.com/OJ/gobuster) - Directory/file & DNS busting tool written in Go.
+* [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go & working with recursion functionality.
 * [gofuzz](https://github.com/braaaax/gofuzz) - Aims to reproduce wfuzz's functionality and versatility. Based on gobuster.
 * [recursebuster](https://github.com/C-Sto/recursebuster) - Rapid content discovery tool for recursively querying webservers, handy in pentesting and web application assessments.
 * [url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites.
@@ -153,7 +156,9 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 
 ## Detection Engines
 
-* [fleet](https://github.com/kolide/fleet) - A flexible control server for osquery [fleets](https://kolide.com/fleet).
+
+* [aegis](https://github.com/rafael-santiago/aegis) - A multiplatform debugger detection library.
+* [fleet](https://github.com/kolide/fleet) - A flexible control server for osquery [fleets](https://kolide.com/fleet)
 * [go-yara](https://github.com/hillu/go-yara) - Go Bindings for [YARA](https://github.com/plusvic/yara), the "pattern matching swiss knife for malware researchers (and everyone else)".
 * [honeytrap](https://github.com/honeytrap/honeytrap) - Advanced Honeypot framework. 
 * [malace](https://github.com/maliceio/malice) - VirusTotal Wanna Be - Now with 100% more Hipster.
@@ -199,6 +204,8 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [gordp](https://github.com/Madnikulin50/gordp) - Rdp client on pure GoLang.
 * [w32](https://github.com/JamesHovious/w32) - A wrapper of Windows APIs for Go.
 * [goWMIExec](https://github.com/C-Sto/goWMIExec) - Pash the Hash,  execute a command on a target machine using WMI by providing an NTLM hash for the specified user.
+* [fibratus.io](https://www.fibratus.io) - A tool for the Windows kernel exploration and observability
+
 
 ## MacOS Specific
 

@@ -109,10 +109,13 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [gorilla/securecookie](https://github.com/gorilla/securecookie) - Encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.
 * [secure](https://github.com/unrolled/secure) -  Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.
 
+## OSINT
+* [removed commits finder](https://github.com/math-x-io/Removed-commits-finder) - OSINT tool to find deleted commits from a GitHub repository.
+* [mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool written in Go.
 
 ## Web Application Testing
-
 * [gobuster](https://github.com/OJ/gobuster) - Directory/file & DNS busting tool written in Go.
+* [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go & working with recursion functionality.
 * [gofuzz](https://github.com/braaaax/gofuzz) - Aims to reproduce wfuzz's functionality and versatility. Based on gobuster.
 * [recursebuster](https://github.com/C-Sto/recursebuster) - Rapid content discovery tool for recursively querying webservers, handy in pentesting and web application assessments
 * [url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites.

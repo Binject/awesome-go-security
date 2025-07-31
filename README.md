@@ -134,6 +134,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [vulns](https://github.com/future-architect/vuls) - Vulnerability scanner for Linux/FreeBSD, agentless, written in Go.
 * [xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
 * [subjack](https://github.com/haccer/subjack) - Subdomain Takeover tool written in Go.
+* [Vulert](vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 * [flightsim](https://github.com/alphasoc/flightsim) - A utility to generate malicious network traffic and evaluate controls.
 * [Cameradar](https://github.com/Ullaakut/cameradar) - An scanner with RTSP stream access tool that comes with its library.
 

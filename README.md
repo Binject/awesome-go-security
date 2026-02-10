@@ -145,7 +145,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [gosnmp](https://github.com/soniah/gosnmp) - Native Go library for performing SNMP actions.
 * [gopassivedns](https://github.com/Phillipmartin/gopassivedns) - PassiveDNS in Go.
 * [nfp](https://github.com/awgh/nfp) - Network Finger Printer.
-* [GoByte](https://github.com/afifhaziq/GoByte) - A fast PCAP parser for Deep Learning in Network Traffic Classification/Intrusion Detection System
+* [GoByte](https://github.com/afifhaziq/GoByte) - A fast PCAP parser for deep learning in network traffic classification/intrusion detection system.
 
 
 ## Exploit Development

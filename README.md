@@ -25,6 +25,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [hashid](https://github.com/JamesHovious/hashid) - Given a string determine the possible hashing algorithms used to produce that string.
 * [crunchy](https://github.com/muesli/crunchy) - Finds common flaws in passwords. Like cracklib.
 * [go-peer](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
+* [pilot-protocol](https://github.com/TeoSlayer/pilotprotocol) - Overlay network with encrypt-by-default (X25519 + AES-256-GCM), Ed25519 identities, and mutual trust handshake over encrypted UDP tunnels.
 
 ## Packers / Obfuscators
 

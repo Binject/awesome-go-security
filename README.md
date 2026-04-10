@@ -5,6 +5,7 @@ A dedicated place for cool golang security projects, frameworks, libraries, and 
 Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-go) and [awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security)
 
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=Binject_awesome-go-security) - Follow Go devs on GitHub and see what repos they star. Handy for finding new packages.
 ## Auth
 
 * [saml2aws](https://github.com/Versent/saml2aws) - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP

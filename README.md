@@ -116,6 +116,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 
 ## Web Application Testing
 * [gobuster](https://github.com/OJ/gobuster) - Directory/file & DNS busting tool written in Go.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 * [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go & working with recursion functionality.
 * [gofuzz](https://github.com/braaaax/gofuzz) - Aims to reproduce wfuzz's functionality and versatility. Based on gobuster.
 * [recursebuster](https://github.com/C-Sto/recursebuster) - Rapid content discovery tool for recursively querying webservers, handy in pentesting and web application assessments.

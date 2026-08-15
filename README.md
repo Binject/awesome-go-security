@@ -113,6 +113,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 ## OSINT
 * [removed commits finder](https://github.com/math-x-io/Removed-commits-finder) - OSINT tool to find deleted commits from a GitHub repository.
 * [mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool written in Go.
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ## Web Application Testing
 * [gobuster](https://github.com/OJ/gobuster) - Directory/file & DNS busting tool written in Go.
@@ -126,7 +127,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 
 ## Network Scanners
 
-* [amass](https://github.com/OWASP/Amass) - In-depth DNS Enumeration and Network Mapping.
+* [amass](https://github.com/owasp-amass/amass) - In-depth DNS Enumeration and Network Mapping.
 * [bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
 * [furious](https://github.com/liamg/furious) - Golang IP/port scanner with SYN (stealth) scanning and device manufacturer identification.
 * [goddi](https://github.com/NetSPI/goddi) - goddi (go dump domain info) dumps Active Directory domain information.

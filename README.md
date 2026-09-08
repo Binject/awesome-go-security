@@ -42,6 +42,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [acmetool](https://github.com/hlandau/acme) - ACME (Let's Encrypt) client tool with automatic renewal.
 * [certigo](https://github.com/square/certigo) - A utility to examine and validate certificates in a variety of formats.
 * [CloudFlare SSL](https://github.com/cloudflare/cfssl) - CFSSL is CloudFlare's PKI/TLS swiss army knife. It is both a command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.
+* [y509](https://github.com/kanywst/y509) - A TUI to examine an X.509 chain from a file, stdin or a live handshake, reporting whether it verifies and whether it was served correctly.
 
 
 ## SSH

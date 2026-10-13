@@ -26,6 +26,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [crunchy](https://github.com/muesli/crunchy) - Finds common flaws in passwords. Like cracklib.
 * [go-peer](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
 * [pilot-protocol](https://github.com/TeoSlayer/pilotprotocol) - Overlay network with encrypt-by-default (X25519 + AES-256-GCM), Ed25519 identities, and mutual trust handshake over encrypted UDP tunnels.
+* [gost-crypto](https://github.com/rekurt/gost-crypto) - Go library for GOST signatures, Streebog hashing, and Kuznechik/Magma encryption via OpenSSL gost-engine.
 
 ## Packers / Obfuscators
 

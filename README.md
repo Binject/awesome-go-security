@@ -112,6 +112,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [gorilla/csrf](https://github.com/gorilla/csrf) - Provides Cross-Site Request Forgery (CSRF) prevention middleware for Go web applications & services.
 * [gorilla/securecookie](https://github.com/gorilla/securecookie) - Encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.
 * [secure](https://github.com/unrolled/secure) -  Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.
+* [guard-core-go](https://github.com/Guard-Core/guard-core-go) - Application-layer API security engine with Gin, Echo, Fiber, net/http and pREST adapters: IP filtering, rate limiting with automatic bans and attack pattern detection.
 
 ## OSINT
 * [removed commits finder](https://github.com/math-x-io/Removed-commits-finder) - OSINT tool to find deleted commits from a GitHub repository.

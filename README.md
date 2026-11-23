@@ -126,6 +126,7 @@ Pulled from collections such as [awesome-go](https://github.com/avelino/awesome-
 * [madns](https://github.com/awgh/madns) - DNS server for pentesters.
 * [rescope](https://github.com/root4loot/rescope) - Parse scope definitions to Burp Suite / ZAP compatible formats for import.
 * [Wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection.
+* [Pentest Swarm AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Autonomous AI-agent web/API penetration testing framework that runs recon, chains vulnerabilities, and proves exploitation with a working proof-of-concept, behind fail-closed scope, egress and authorization guardrails.
 
 ## Network Scanners
 
